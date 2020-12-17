@@ -3,7 +3,7 @@
 How to Add your own firebase platform to this app
 
 https://firebase.google.com/docs/android/setup
-Firebase guides you through this as you make a new project on there.
+Firebase guides you through this as you make a new project, but i've done most of this so all you need to do is.
 
 Step 1: Create firebase project
 
